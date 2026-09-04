@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you reference this research, please cite the specific paper. The preferred citation below is the core AI-GCLM framework paper."
+title: "Construction Research — AI-Enhanced Leadership & Delivery"
+abstract: "Open-access research on artificial intelligence in construction leadership, project delivery and infrastructure economics, developing the GCLM and AI-GCLM frameworks."
+authors:
+  - family-names: "Rahaman"
+    given-names: "Mohammad Habibur"
+    orcid: "https://orcid.org/0009-0000-2294-8968"
+license: CC-BY-4.0
+repository-code: "https://github.com/mrahamangm-droid/construction-research"
+url: "https://mrahaman.com/"
+keywords:
+  - construction management
+  - artificial intelligence
+  - construction leadership
+  - infrastructure delivery
+  - decision support
+preferred-citation:
+  type: article
+  title: "AI-GCLM: A Conceptual Framework for Artificial Intelligence-Enhanced Leadership in Global Construction Management"
+  authors:
+    - family-names: "Rahaman"
+      given-names: "Mohammad Habibur"
+      orcid: "https://orcid.org/0009-0000-2294-8968"
+  journal: "International Journal of Engineering Technology Research & Management"
+  volume: 9
+  issue: 5
+  start: 609
+  end: 615
+  year: 2025
+  month: 5
+  doi: "10.5281/zenodo.21373248"
